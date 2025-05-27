@@ -2,8 +2,9 @@
 
 .container{
     display: flex;
-    height: 90vh;
+    border: 10px solid black;
     justify-content: space-around;
+    flex-wrap: wrap;
 }
 .box{
     width: 450px;
